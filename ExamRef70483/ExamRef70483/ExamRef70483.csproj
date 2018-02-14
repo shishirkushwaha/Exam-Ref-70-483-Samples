@@ -44,10 +44,22 @@
   <ItemGroup>
     <Compile Include="AddOn\Generics\GenericList.cs" />
     <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P1.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P11.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P10.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P12.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P13.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P14.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P15.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P16.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P17.cs" />
     <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P2.cs" />
     <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P3.cs" />
     <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P4.cs" />
     <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P5.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P6.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P7.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P8.cs" />
+    <Compile Include="ManageProgramFlow\ImplMultithreading\Listing1P9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -7,8 +7,8 @@ namespace ExamRef70483
     {
         private static void Main(string[] args)
         {
-            Listing1P5.UsingThreadStaticAttribute();
-            Console.ReadLine();
+            Listing1P17.UsingParallelBreak();
+            Console.ReadKey();
         }
     }
 }
