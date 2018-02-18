@@ -7,7 +7,7 @@ namespace ExamRef70483
     {
         private static void Main(string[] args)
         {
-            Listing1P17.UsingParallelBreak();
+            Listing1P32.UsingConcurrentStack();
             Console.ReadKey();
         }
     }
