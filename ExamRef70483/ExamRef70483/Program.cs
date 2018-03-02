@@ -1,5 +1,6 @@
 ﻿using System;
-using ExamRef70483.ManageProgramFlow.ImplMultithreading;
+using ExamRef70483.ManageProgramFlow.EventsAndCallBacks;
+using ExamRef70483.ManageProgramFlow.ImplementProgramFlow;
 
 namespace ExamRef70483
 {
@@ -7,7 +8,7 @@ namespace ExamRef70483
     {
         private static void Main(string[] args)
         {
-            Listing1P32.UsingConcurrentStack();
+            Listing1P76.MulticastDelegate();
             Console.ReadKey();
         }
     }
